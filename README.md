@@ -1,2 +1,5 @@
-# HiddenFalseWiki
-chrome extension
+# なにこれ
+chromeの拡張機能
+
+# どうなんの
+Googleの検索の結果からWikiを語る不要なサイトを非表示にする
